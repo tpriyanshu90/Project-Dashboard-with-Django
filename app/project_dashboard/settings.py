@@ -169,7 +169,7 @@ WEBPACK_LOADER = {
 
 # DEPLOYMENT
 if not DEBUG:
-    ALLOWED_HOSTS = ["django-gamification.herokuapp.com"]
+    ALLOWED_HOSTS = ["https://dasdasdasdasd.herokuapp.com"]
 
     SESSION_COOKIE_SECURE = True
     SECURE_BROWSER_XSS_FILTER = True
